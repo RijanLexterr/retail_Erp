@@ -37,6 +37,8 @@ Keep HTTP concerns in routes, business rules and transactions in services, and d
    npm run dev
    ```
 
+   Run the frontend tests with `npm test`.
+
 3. Configure and start the API in another terminal:
 
    ```sh
